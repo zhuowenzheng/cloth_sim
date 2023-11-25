@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\Cloth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\GLSL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\MatrixStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\Particle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\Program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\Spring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\TAMUcoursework\csce689\PBD\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\Cloth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\GLSL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\MatrixStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\Particle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\Program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\Spring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\TAMUcoursework\csce689\PBD\src\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\TAMUcoursework\csce689\PBD\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\TAMUcoursework\csce689\PBD\resources\phong_frag.glsl" />
+    <None Include="E:\TAMUcoursework\csce689\PBD\resources\phong_vert.glsl" />
+    <None Include="E:\TAMUcoursework\csce689\PBD\resources\simple_frag.glsl" />
+    <None Include="E:\TAMUcoursework\csce689\PBD\resources\simple_vert.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7A5C47AA-0D27-3CAF-BC6A-1AD4FF0E4645}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9654DE5F-3526-3D1E-8561-28D4FAD31CF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

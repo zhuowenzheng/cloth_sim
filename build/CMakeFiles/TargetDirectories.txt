@@ -1,0 +1,10 @@
+E:/TAMUcoursework/csce689/PBD/build/CMakeFiles/A5.dir
+E:/TAMUcoursework/csce689/PBD/build/CMakeFiles/INSTALL.dir
+E:/TAMUcoursework/csce689/PBD/build/CMakeFiles/ALL_BUILD.dir
+E:/TAMUcoursework/csce689/PBD/build/CMakeFiles/ZERO_CHECK.dir
+D:/TAMUCourse/CSCE689/glfw-3.3.8/debug/CMakeFiles/uninstall.dir
+D:/TAMUCourse/CSCE689/glfw-3.3.8/debug/CMakeFiles/INSTALL.dir
+D:/TAMUCourse/CSCE689/glfw-3.3.8/debug/CMakeFiles/ALL_BUILD.dir
+D:/TAMUCourse/CSCE689/glfw-3.3.8/debug/src/CMakeFiles/update_mappings.dir
+D:/TAMUCourse/CSCE689/glfw-3.3.8/debug/src/CMakeFiles/glfw.dir
+D:/TAMUCourse/CSCE689/glfw-3.3.8/debug/src/CMakeFiles/INSTALL.dir
